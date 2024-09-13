@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <artifactId>tutorialspoint-java</artifactId>
 
-  <groupId>antalpeti.learn</groupId>
+  <groupId>io.github.antalpeti</groupId>
   <modelVersion>4.0.0</modelVersion>
   <properties>
     <maven.compiler.source>21</maven.compiler.source>
